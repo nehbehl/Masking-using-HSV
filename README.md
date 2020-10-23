@@ -13,5 +13,12 @@ This piece of code shows how to convert RGB image to HSV format and applying mas
  - Opencv 4.0.1
  
  # Steps to run the code
+ 1. Ensure all pre-requisite software setups are complete.
+ 2. Clone Masking-using-HSV project to your local machine.
+ 3. Open 'Masking using HSV' ipynb file in your Jupyter notebook.
+ 4. Ensure images folder is placed in the same directory.
+ 5. Execute commands under 'Masking using HSV' either using Run on notebook or CTRL+ENTER.
+ 
+ Note: If steps 1 to 5 are followed, then masked image should appear. Read through comments to understand the code.
  
  
