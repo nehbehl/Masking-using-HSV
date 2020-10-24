@@ -1,5 +1,5 @@
 # HSV-masking
-This piece of code shows how to convert RGB image to HSV format and applying mask created using HSV values
+This code repository shows how to convert RGB image to HSV format, creating a mask using HSV values and finally applying it.
 
 # Pre-requisites:
 - Install python 3 or above (Anaconda distribution provides all the utilities bundled and is suggested for set-up purpose)
