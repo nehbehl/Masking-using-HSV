@@ -19,6 +19,6 @@ This code repository shows how to convert RGB image to HSV format, creating a ma
  4. Ensure images folder is placed in the same directory.
  5. Execute commands under 'Masking using HSV' either using Run on notebook or CTRL+ENTER.
  
- Note: If steps 1 to 5 are followed, then masked image should appear. Read through comments to understand the code.
+ Note: If steps 1 to 5 are followed, then masked image should appear. Read through the comments to understand the code.
  
  
